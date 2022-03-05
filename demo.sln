@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "demo\demo.csproj", "{EBD20056-ADFB-4664-9718-FE2C581DF2F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "domo.test", "domo.test\domo.test.csproj", "{EE1E54C9-9329-4988-AD88-3D1125D48D2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBD20056-ADFB-4664-9718-FE2C581DF2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD20056-ADFB-4664-9718-FE2C581DF2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD20056-ADFB-4664-9718-FE2C581DF2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD20056-ADFB-4664-9718-FE2C581DF2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE1E54C9-9329-4988-AD88-3D1125D48D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1E54C9-9329-4988-AD88-3D1125D48D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1E54C9-9329-4988-AD88-3D1125D48D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1E54C9-9329-4988-AD88-3D1125D48D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
